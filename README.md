@@ -7,6 +7,9 @@ Student zkoumá současné metody a nástroje pro zabezpečení počítačových
 ## Úkoly
 
 - [ ] Prozkoumat současné metody NDR
+    - https://www.youtube.com/watch?v=8lvdRX9fR2M
+    https://suricata.io/
+    https://zeek.org/
 - [ ] Analyzovat Open Source řešení NDR
 - [ ] Analyzovat demo verze - antihacker
 - [ ] Navrhnout optimální řešení pro NDR a firewall
@@ -16,3 +19,13 @@ Student zkoumá současné metody a nástroje pro zabezpečení počítačových
 
 - [Prezentace bude přednesena 5.2.2024](kochanek_ndr_prezentace.pptx)
 - [Písemná práce bude odevzdána 8.2.2024](kochanek_ndr_prace.docx)
+
+
+
+## Notes
+
+Threat Intel feeds = NDR + SIEM + EDR
+IDS and IPS tool -> Suricata
+https://forums.virtualbox.org/viewtopic.php?t=76229
+
+
