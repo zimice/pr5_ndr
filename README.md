@@ -11,7 +11,8 @@ Student zkoumá současné metody a nástroje pro zabezpečení počítačových
     https://suricata.io/
     https://zeek.org/
 - [ ] Analyzovat Open Source řešení NDR
-- [ ] Analyzovat demo verze - antihacker
+- [ ] Analyzovat komerční řešení
+- [ ] Vyrobit vlastní prototyp - Mikrotik Router se Mirroring portem a wireshark rpi
 - [ ] Navrhnout optimální řešení pro NDR a firewall
 - [ ] Konkrétní doporučení pro implementaci
 
