@@ -6,19 +6,19 @@ Student zkoumá současné metody a nástroje pro zabezpečení počítačových
 
 ## Úkoly
 
-- [ ] Prozkoumat současné metody NDR
+- [X] Prozkoumat současné metody NDR
     - https://www.youtube.com/watch?v=8lvdRX9fR2M
     https://suricata.io/
     https://zeek.org/
-- [ ] Analyzovat Open Source řešení NDR
-- [ ] Analyzovat komerční řešení
-- [ ] Vyrobit vlastní prototyp - Mikrotik Router se Mirroring portem a wireshark rpi
+- [X] Analyzovat Open Source řešení NDR
+- [X] Analyzovat komerční řešení
+- [X] Vyrobit vlastní prototyp - Mikrotik Router se Mirroring portem a wireshark rpi
 - [ ] Navrhnout optimální řešení pro NDR a firewall
 - [ ] Konkrétní doporučení pro implementaci
 
 ## Obsah projektu
 
-- [Prezentace bude přednesena 5.2.2024](kochanek_ndr_prezentace.pptx)
+- [Prezentace byla přednesena 5.2.2024](kochanek_ndr_prezentace.pptx)
 - [Písemná práce bude odevzdána 8.2.2024](kochanek_ndr_prace.docx)
 
 
